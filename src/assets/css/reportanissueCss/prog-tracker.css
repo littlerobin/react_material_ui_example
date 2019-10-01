@@ -1,0 +1,157 @@
+ol.progtrckr {
+  margin: auto;
+  padding-bottom: 2.2rem;
+  width: 100%;
+  list-style-type: none;
+  margin-left: 23%;
+}
+ol.progtrckr li {
+  display: inline-block;
+  text-align: center;
+  line-height: 1.5rem;
+  /* padding: 0 0.7rem; */
+  cursor: pointer;
+  width: 50%;
+  position: relative;
+}
+ol.progtrckr li span {
+  /* padding: 0 1.5rem; */
+  top: 2.5rem;
+    position: absolute;
+    left: -15.9rem;
+    width: 100%;
+    border-bottom:solid;
+  
+  margin:auto;
+  border-bottom:none;
+  /* border: 5px solid #006192; */
+  background:linear-gradient(#006192, #006192) bottom /* left or right or else */ no-repeat;
+  background-size:98% 2px;
+}
+ol.progtrckr li span p{
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 2rem;
+  padding-bottom: 8px;
+}
+
+@media (max-width: 650px) {
+  .progtrckr li span {
+    display: none;
+  }
+}
+.progtrckr em {
+  display: none;
+  font-weight: 700;
+  padding-left: 1rem;
+}
+@media (max-width: 650px) {
+  .progtrckr em {
+    display: inline;
+  }
+}
+
+ol.progtrckr li.progtrckr-todo {
+  color: silver;
+  border-bottom: 3px dashed silver;
+}
+ol.progtrckr li.progtrckr-todo:last-child {
+  border-bottom: none !important;
+  /* width: 25px !important; */
+}
+ol.progtrckr li.progtrckr-doing:last-child {
+  border-bottom: none !important;
+  /* width: 25px !important; */
+}
+ol.progtrckr li.progtrckr-done:last-child {
+  border-bottom: none !important;
+  width: 25px !important;
+}
+ol.progtrckr li.progtrckr-doing {
+  color: black;
+  border-bottom: 3px dashed silver;
+}
+ol.progtrckr li.progtrckr-done {
+  color: black;
+  border-bottom: 3px solid #006192;
+}
+ol.progtrckr li.progtrckr-done span {
+  border-bottom:solid;
+  color: black;
+  border-bottom:none;
+  background:linear-gradient(#006192, #006192) bottom /* left or right or else */ no-repeat;
+  background-size:98% 5px;
+}
+ol.progtrckr li.progtrckr-done span p{
+  color: #006192;
+  font-weight: bold;
+}
+ol.progtrckr li.progtrckr-doing span p{
+  color: #006192;
+  font-weight: bold;
+}
+ol.progtrckr li.progtrckr-doing span{
+  border-bottom:solid;
+  color: black;
+  border-bottom:none;
+  background:linear-gradient(#006192, #006192) bottom /* left or right or else */ no-repeat;
+  background-size:98% 5px;
+}
+ol.progtrckr li:after {
+  content: "\00a0\00a0";
+}
+ol.progtrckr li:before {
+  position: relative;
+  bottom: -1.1rem;
+  float: left;
+  /* left: 50%; */
+}
+ol.progtrckr li.progtrckr-todo:before {
+  content: "\039F";
+  color: silver;
+  background-color: white;
+  width: 1.2em;
+  line-height: 1.4em;
+}
+ol.progtrckr li.progtrckr-todo:hover:before {
+  color: #006192;
+}
+
+ol.progtrckr li.progtrckr-doing:before {
+  content: "\2022";
+  color: white;
+  background-color: #006192;
+  width: 1.2em;
+  line-height: 1.2em;
+  border-radius: 1.2em;
+}
+ol.progtrckr li.progtrckr-doing:hover:before {
+  color: #006192;
+}
+
+ol.progtrckr li.progtrckr-done:before {
+  content: "\2713";
+  color: white;
+  background-color: #006192;
+  width: 1.2em;
+  line-height: 1.2em;
+  border-radius: 1.2em;
+}
+ol.progtrckr li.progtrckr-done:hover:before {
+  color: #006192;
+}
+
+@media (min-width: 1500px) {
+
+  ol.progtrckr {
+    
+    margin-left: 8.5%;
+  }
+}
+@media (min-width: 1800px) {
+
+  ol.progtrckr {
+    
+    margin-left: 7%;
+  }
+}

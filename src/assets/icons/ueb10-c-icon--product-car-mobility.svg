@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Stroke-3" transform="matrix(1,0,0,1,8,7)">
+        <path d="M-0.194,-6.66C-0.106,-6.922 0.178,-7.062 0.44,-6.974C0.701,-6.885 0.841,-6.601 0.753,-6.34L-7.026,16.66C-7.115,16.922 -7.398,17.062 -7.66,16.974C-7.921,16.885 -8.062,16.601 -7.973,16.34L-0.194,-6.66Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g id="Stroke-5" transform="matrix(1,0,0,1,8,7)">
+        <path d="M7.247,-6.34C7.159,-6.601 7.299,-6.885 7.561,-6.974C7.822,-7.062 8.106,-6.922 8.194,-6.66L15.973,16.34C16.062,16.601 15.921,16.885 15.66,16.974C15.398,17.062 15.115,16.922 15.026,16.66L7.247,-6.34Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g id="Stroke-7" transform="matrix(1,0,0,1,8,7)">
+        <path d="M3.5,-6.5C3.5,-6.776 3.724,-7 4,-7C4.276,-7 4.5,-6.776 4.5,-6.5L4.5,-4.5C4.5,-4.224 4.276,-4 4,-4C3.724,-4 3.5,-4.224 3.5,-4.5L3.5,-6.5Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g id="Stroke-9" transform="matrix(1,0,0,1,8,7)">
+        <path d="M3.5,5.5C3.5,5.224 3.724,5 4,5C4.276,5 4.5,5.224 4.5,5.5L4.5,9.5C4.5,9.776 4.276,10 4,10C3.724,10 3.5,9.776 3.5,9.5L3.5,5.5Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g id="Stroke-11" transform="matrix(1,0,0,1,8,7)">
+        <path d="M3.5,12.5C3.5,12.224 3.724,12 4,12C4.276,12 4.5,12.224 4.5,12.5L4.5,16.5C4.5,16.776 4.276,17 4,17C3.724,17 3.5,16.776 3.5,16.5L3.5,12.5Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g id="Stroke-13" transform="matrix(1,0,0,1,8,7)">
+        <path d="M3.5,-1.5C3.5,-1.776 3.724,-2 4,-2C4.276,-2 4.5,-1.776 4.5,-1.5L4.5,2.5C4.5,2.776 4.276,3 4,3C3.724,3 3.5,2.776 3.5,2.5L3.5,-1.5Z" style="fill-rule:nonzero;"/>
+    </g>
+</svg>

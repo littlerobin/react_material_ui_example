@@ -1,0 +1,195 @@
+.WholeComponent {
+    font-family: "AllianzNeo-Regular" !important;
+    color: #006192 !important;
+}
+
+.DurationFilterGroup {
+    position: absolute;
+    right: 20px;
+    top: 60px;
+}
+
+@media only screen and (max-device-width: 768px) {
+    .DurationFilterGroup {
+        position: absolute;
+        right: 20px;
+        top: 100px;
+    }
+}
+
+.Back-Blue {
+    background-color: #007BFF !important;
+}
+
+.Template-List-Subtitle-Underline {
+
+    border-top: 3px solid rgb(0, 97, 146);
+
+    margin-bottom: 10px;
+
+  }
+
+  .Template-IssueSubtitle {
+    color: black;
+    border-bottom: 1px  solid #CCCCCC;
+    margin-top: 15px;
+    display: block;
+    width:18%;
+}
+
+.IssueSubtitled{
+    color: black;
+
+    margin-left:20px;
+
+    margin-top: 15px;
+
+    border-bottom: 1px solid #CCCCCC;
+
+    display: block;
+
+    width:45%
+
+}
+
+ 
+
+.IssueCount {
+
+    margin-left:40px;
+
+    color: #407B71;
+
+    font-size: 30px !important;
+
+}
+
+.Template-IssueCounted{
+
+    margin-left: 25px !important;
+
+    color: #407B71;
+
+    font-size: 30px !important;
+
+}
+
+ 
+
+.Margin-Left-25 {
+
+    margin-left: 25px !important;
+
+   
+
+}
+
+.Margin-Left-45 {
+
+    margin-left: 45px !important;
+
+   
+
+}
+
+.Margin-Left-55 {
+
+    margin-left: 55px !important;
+
+   
+
+}
+
+.Margin-Top-5 {
+
+    margin-top: 5px !important;
+
+}
+
+.Margin-Top-15 {
+
+    margin-top: 15px !important;
+
+}
+
+.Margin-Top-25 {
+
+    margin-top: 25px !important;
+
+}
+
+.Margin-Top-45 {
+
+    margin-top: 45px !important;
+
+}
+
+.Margin-Top-50 {
+
+    margin-top: 50px !important;
+
+}
+
+.Margin-Right-15 {
+
+    margin-right: 15px !important;
+
+}
+
+.Margin-Right-45 {
+
+    margin-right: 45px !important;
+
+}
+
+.Margin-Bottom-5 {
+
+    margin-bottom: 5px !important;
+
+}
+
+.Margin-Bottom-15 {
+
+    margin-bottom: 15px !important;
+
+}
+
+.Margin-Bottom-25 {
+
+    margin-bottom: 25px !important;
+
+}
+
+.Align-Center {
+
+    text-align: center;
+
+}
+
+.Align-Left{
+
+    text-align: left;
+
+}
+
+.Align-Right{
+
+    text-align: right;
+
+}
+
+.Issue-Exception-Contained-Button{
+
+    color: white !important;
+
+}
+
+.Template-List-Subtitle-Verticalline {
+  border-left: 2px solid #CCCCCC;
+  height: 200px;
+  position: absolute;
+  left: 50%;
+  margin-left: -8px;
+  top: 25;
+  bottom:50;
+  }

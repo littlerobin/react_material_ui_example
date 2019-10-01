@@ -1,0 +1,73 @@
+.QueueTemplate-List-Subtitle-Underline {
+    border-top: 2px solid rgb(0, 97, 146);
+    margin-bottom: 20px; 
+    margin-top: 10px;
+  }
+
+  .QueueSubtitle {
+    border-bottom: 1px solid black;
+    margin-top: 5px;
+    display: block;
+    width:30%
+}
+
+.QueueIssueSubtitle{
+    border-bottom: 1px solid black;
+    margin-top: 5px;
+    display: block;
+    width:60%
+}
+
+.QueueIssuetitle {
+  border-bottom: 1px solid black;
+  margin-top: 5px;
+  display: block;
+  width:100%
+}
+
+.QueueDurationFilter{
+  float: right;
+  font-size: 20px;
+  top: -9%;
+}
+.Queue-button-Margin-Top-10 {
+  margin-top: 10px !important;
+}
+.DurationFilterGroup {
+  float: right;
+  font-size: 20px;
+}
+.IssueCount {
+  color: #407B71;
+  font-size: 30px !important;
+}
+.Margin-Left-25 {
+  margin-left: 25px !important;
+}
+.Margin-Top-5 {
+  margin-top: 5px !important;
+}
+.Margin-Top-15 {
+  margin-top: 15px !important;
+}
+.Margin-Top-25 {
+  margin-top: 25px !important;
+}
+.Margin-Top-50 {
+  margin-top: 50px !important;
+}
+.Margin-Right-15 {
+  margin-right: 15px !important;
+}
+.Margin-Bottom-5 {
+  margin-bottom: 5px !important;
+}
+.Margin-Bottom-15 {
+  margin-bottom: 15px !important;
+}
+.Margin-Bottom-25 {
+  margin-bottom: 25px !important;
+}
+.HIDDEN {
+  display: none;
+}

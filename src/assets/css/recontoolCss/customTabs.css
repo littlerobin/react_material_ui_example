@@ -1,0 +1,108 @@
+.tabs{
+    border-bottom:none !important;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: stretch;
+    margin: 0;
+    padding: 0;
+}
+.tabs .nav-item{
+    font-size: 18px;
+    text-align: center;
+    font-weight: 500;
+    /* background-color: #407d71 !important; */
+    color: black !important;
+    margin: 0 10px !important;
+    border-radius: 4px !important;
+    padding: 25px 10px !important;
+    flex: 1;
+    text-align: center;
+}
+.tabs .active {
+    font-size: 20px;
+    padding: 6px 12px;
+    text-align: center;
+    font-weight: 500;
+    background-color: #407d71 !important;
+    color: white !important;
+    margin: 0 10px !important;
+    border-radius: 4px !important;
+    padding: 25px 16px !important;
+}
+
+.Header-Comment {
+    background: rgb(165, 235, 231);
+    /* padding: 0px; */
+    margin-top: -1px !important;
+    margin-bottom:20px;
+}
+.Header-Comment-1{
+    margin-right: -20px !important;
+    margin-left: 26px !important;
+    flex: 0 0 31.333333% !important;
+}
+.Header-Comment-2{
+    margin-left: 12px;
+    flex: 0 0 31.333333% !important;
+
+}
+.Header-Comment-3{
+    margin-left: -2px;
+    flex: 0 0 31.333333% !important;
+
+}
+.Job-Manager-LastDate{
+    font-size: 9px !important;
+    color: gray;
+    border-top: 1px dashed gray;
+}
+.Force-Fill-400{
+    min-height: 400px;
+}
+.Right-Break-Line{
+    border-right: 1px solid gray;
+    text-align: center;
+}
+.Active-Reconciliation-Daily{
+    margin: 15px;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    background-color: #6EAEAD;
+}
+.Active-Reconciliation-Monthly{
+    margin: 15px;
+    height: 75px;
+    line-height: 75px;
+    text-align: center;
+    background-color: #B2D2CE;
+}
+.Active-Reconciliation-Demand{
+    margin: 15px;
+    height: 75px;
+    line-height: 75px;
+    text-align: center;
+    background-color: #E2F2F0;
+}
+.Vertical-Center{
+    line-height: 1em;
+    display: inline-block;
+    vertical-align: middle;   
+}
+.Margin-Default-15{
+    margin: 15px !important;
+}
+.Active-Count{
+    font-size: 25px !important;
+    color: black;
+}
+.Active-Reconciliation-Title{
+    border-bottom: 1px solid lightgray;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding: 15px;
+    color: gray;
+}
+.Margin-Top-15{
+    margin-top: 15px !important;
+}

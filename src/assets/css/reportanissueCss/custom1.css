@@ -1,0 +1,97 @@
+.IssueHeader {
+    margin-left: 15px;
+    margin-top: 35px;
+}
+
+.IssueCount {
+    color: #407B71;
+    font-size: 30px !important;
+}
+
+.IssueTitle {
+    font-size: 20px !important;
+}
+
+.IssueSubtitle {
+    border-bottom: 1px solid black;
+    margin-top: 5px;
+    display: block;
+    
+}
+
+.DurationFilterGroup {
+    float: right;
+    font-size: 20px;
+}
+
+.DurationFilter {
+    color: #006192 !important;
+}
+
+.Margin-Left-25 {
+    margin-left: 25px !important;
+}
+.Margin-Top-5 {
+    margin-top: 5px !important;
+}
+.Margin-Top-15 {
+    margin-top: 15px !important;
+}
+.Margin-Top-25 {
+    margin-top: 25px !important;
+}
+.Margin-Top-50 {
+    margin-top: 50px !important;
+}
+.Margin-Right-15 {
+    margin-right: 15px !important;
+}
+.Margin-Bottom-5 {
+    margin-bottom: 5px !important;
+}
+.Margin-Bottom-15 {
+    margin-bottom: 15px !important;
+}
+.Margin-Bottom-25 {
+    margin-bottom: 25px !important;
+}
+.Align-Center {
+    text-align: center;
+}
+.Align-Left{
+    text-align: left;
+}
+.Align-Right{
+    text-align: right;
+}
+.HIDDEN {
+    display: none;
+}
+.Multi-Step-Align{
+    display: grid;
+    text-align: center;
+}
+.Issue-Exception-Contained-Button{
+    color: white !important;
+}
+.Browse-File-Button{
+    float: right;
+    margin-right: 10px !important;
+    margin-top: 10px !important;
+}
+.Fill-Full-Child{
+    display: grid;
+}
+.Dialog-Header{
+    display: block;
+}
+.Wide-Dialog{
+    width: 40% !important;
+    height: 30% !important;
+}
+.Border-Top-3{
+    border-top: 3px solid black !important;
+}
+.Border-Bottom-3{
+    border-bottom: 3px solid black !important;
+}
